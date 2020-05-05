@@ -2,5 +2,5 @@
 
 ![万能充](images/wannengchong.png "万能充")
 
-1. [面试题](面试题.MD)
+1. [知识点整理](README.MD)
 2. [Dubbo社区开发者日-北京站视频资料](Dubbo社区开发者日-北京站视频资料.MD)
